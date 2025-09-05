@@ -4,52 +4,36 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Reverse+Engineer;Independent+Developer;Web+/+PC+/+App;Tooling+%7C+Analysis+%7C+Systems" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tiwe0.tiwe0&"  />
-</div>
-
-###
-
-<h1 align="left">👾 Reverse Engineer | Independent Developer</h1>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiwe0/tiwe0/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiwe0/tiwe0/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tiwe0/tiwe0/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tiwe0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiwe0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+---
 
 <p align="left">🔍 Reverse Engineer<br>💻 Web / PC / App Independent Dev<br>⚙️ Focused on tooling, analysis, and systems<br>🧩 Languages & Tools: C++ / Python / Frida / Unicorn / IDA / Ghidra<br>🎮 Independent game development</p>
 
-###
+---
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
@@ -83,4 +67,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-###
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tiwe0.tiwe0&"  />
+</div>
