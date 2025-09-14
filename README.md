@@ -26,7 +26,8 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-🎓 <strong>Education</strong> - 🏛️ **Xiamen University** Graduate from Mathematical Statistics Pilot Program, School of Economics with strong data intuition and machine learning foundation<br>
+🎓 <strong>Education</strong> - Graduated from <strong>Mathematical Statistics</strong> Pilot Program, <strong>School of Economics</strong>, <strong>Xiamen University
+</strong>  with good data intuition and machine learning foundation<br>
 🔍 <strong>Reverse Engineer</strong> - Specialized in software reverse analysis and security research<br>
 💻 <strong>Independent Developer</strong> - Full-stack development across Web / PC / App platforms<br>
 ⚙️ <strong>Security Researcher</strong> - Security Researcher at Tencent Security Emergency Response Center<br>
@@ -63,7 +64,7 @@
 
 - 🥇 **Security Research** - Tencent Security Emergency Response Center Researcher (April 2022 - Rank #26)
 - 🎯 **CTF Competitions** - Active participant in cybersecurity capture-the-flag events
-- � **Vulnerability Research** - Discovered critical authentication bypass in Tencent Email System
+- 🔍 **Vulnerability Research** - Discovered critical authentication bypass in Tencent Email System
 - 📚 **Academic Excellence** - Mathematical Statistics Pilot Program Graduate with ML expertise
 
 </div>
@@ -108,8 +109,8 @@
 
 <p align="center">
   <strong>🔍 Technical Interests:</strong><br>
-  �️ Complex reverse engineering challenges<br>
-  �️ Security research and vulnerability discovery<br>
+  👾 Complex reverse engineering challenges<br>
+  🔑 Security research and vulnerability discovery<br>
   🎮 Game development and engine optimization<br>
   🤖 AI-powered development tools<br>
   🔬 Algorithm reconstruction and analysis<br>
