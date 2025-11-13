@@ -25,11 +25,11 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          5 hrs 41 mins   ███████████▒░░░░░░░░░░░░░   45.36 %
-Markdown     3 hrs 10 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
-JavaScript   1 hr 52 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
-Other        1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-TypeScript   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Markdown     3 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.64 %
+Lua          2 hrs 56 mins   ███████▓░░░░░░░░░░░░░░░░░   31.31 %
+JavaScript   1 hr 51 mins    █████░░░░░░░░░░░░░░░░░░░░   19.86 %
+Other        50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+TypeScript   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
