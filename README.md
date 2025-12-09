@@ -25,11 +25,11 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         6 hrs 14 mins   ███████▒░░░░░░░░░░░░░░░░░   28.76 %
-TypeScript   5 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
-Rust         2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-HTML         2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-Markdown     1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+TypeScript   5 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+JSON         4 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
+Markdown     2 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+Rust         2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+HTML         1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
 ```
 
 <!--END_SECTION:waka-->
