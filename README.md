@@ -25,11 +25,11 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   22 hrs 40 mins  █████████████████▒░░░░░░░   69.58 %
-Python       4 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
-JavaScript   1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-JSON         1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-Markdown     34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+TypeScript   21 hrs 22 mins  ███████████████▓░░░░░░░░░   62.38 %
+Python       5 hrs 55 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+CSV          2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+JavaScript   1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+JSON         1 hr 49 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
 ```
 
 <!--END_SECTION:waka-->
