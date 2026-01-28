@@ -25,11 +25,11 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              19 hrs 59 mins  ████████████░░░░░░░░░░░░░   48.39 %
-Python            4 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Java              3 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-TypeScript        2 hrs 48 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Bash              2 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Rust              18 hrs 31 mins  ██████████▓░░░░░░░░░░░░░░   42.18 %
+Python            5 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
+TypeScript        4 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+Java              3 hrs 59 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+JavaScript        2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
 ```
 
 <!--END_SECTION:waka-->
