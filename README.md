@@ -25,11 +25,7 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     28 mins               ███████████▒░░░░░░░░░░░░░   44.76 %
-Bash         13 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
-YAML         8 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
-Python       6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-JSON         5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
