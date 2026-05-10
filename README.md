@@ -25,10 +25,8 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Java         16 mins               ███████████▓░░░░░░░░░░░░░   46.97 %
-Markdown     13 mins               █████████▒░░░░░░░░░░░░░░░   37.76 %
-Text         4 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-TypeScript   1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Markdown     11 mins               ██████████████████████▒░░   89.39 %
+TypeScript   1 min                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
 ```
 
 <!--END_SECTION:waka-->
