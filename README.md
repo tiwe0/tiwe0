@@ -25,9 +25,9 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 13 mins          █████████████████░░░░░░░░   67.51 %
-Diff       22 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-JSON       12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+Markdown     1 hr 13 mins          █████████████████████▒░░░   85.02 %
+JSON         12 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
