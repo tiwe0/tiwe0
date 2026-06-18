@@ -25,7 +25,9 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     7 mins                ████████████████▓░░░░░░░░   66.99 %
+Markdown   3 mins                ████████▒░░░░░░░░░░░░░░░░   32.89 %
+JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
