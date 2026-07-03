@@ -25,9 +25,7 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         34 mins               ███████████████████████░░   91.71 %
-JavaScript   2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+JSON   23 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
