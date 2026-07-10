@@ -25,7 +25,8 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   34 mins               █████████████████████████   100.00 %
+Markdown   34 mins               █████████████████████████   99.82 %
+CSV        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
