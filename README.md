@@ -25,11 +25,8 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     3 hrs 43 mins         █████████████████████▓░░░   86.74 %
-JavaScript   21 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Rust         12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-C++          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown     2 hrs 23 mins         ████████████████████████▒   96.99 %
+JavaScript   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 ```
 
 <!--END_SECTION:waka-->
