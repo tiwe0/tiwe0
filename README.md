@@ -25,8 +25,7 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 30 mins         ████████████████████████▒   97.14 %
-JavaScript   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Markdown   3 hrs 32 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
