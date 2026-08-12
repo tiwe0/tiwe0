@@ -25,7 +25,11 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   27 mins               █████████████████████████   100.00 %
+Java         2 hrs 56 mins         ████████████▒░░░░░░░░░░░░   48.99 %
+Markdown     1 hr 17 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.61 %
+Python       50 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
+Git Config   30 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+JavaScript   10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 ```
 
 <!--END_SECTION:waka-->
