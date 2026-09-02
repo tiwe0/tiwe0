@@ -25,8 +25,8 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      50 mins               ████████████████████████░   95.87 %
-Common Lisp   2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Common Lisp   28 mins               ████████████████████▒░░░░   81.19 %
+Markdown      6 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
 ```
 
 <!--END_SECTION:waka-->
