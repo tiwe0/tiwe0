@@ -25,10 +25,11 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Common Lisp   28 mins               ████████████████████░░░░░   79.78 %
-Markdown      6 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-XML           0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-JavaScript    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Common Lisp   28 mins               ████████████▒░░░░░░░░░░░░   48.91 %
+JavaScript    21 mins               █████████▒░░░░░░░░░░░░░░░   37.13 %
+Markdown      6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+TypeScript    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+XML           0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
