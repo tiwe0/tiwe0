@@ -25,10 +25,9 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        6 mins                ████████████▒░░░░░░░░░░░░   49.11 %
-Bash         5 mins                ███████████░░░░░░░░░░░░░░   43.84 %
-JSON         0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Common Lisp   31 mins               ███████████▓░░░░░░░░░░░░░   46.28 %
+Markdown      29 mins               ███████████░░░░░░░░░░░░░░   43.90 %
+Git Config    6 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
 ```
 
 <!--END_SECTION:waka-->
