@@ -25,9 +25,7 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Text       11 mins               █████████████████████▒░░░   84.68 %
-Markdown   1 min                 ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
-INI        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
