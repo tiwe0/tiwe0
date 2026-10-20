@@ -25,8 +25,7 @@ Last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   12 mins               ████████████████████▒░░░░   81.55 %
-TOML       2 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
+Markdown   12 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
