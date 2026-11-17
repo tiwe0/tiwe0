@@ -1,9 +1,7 @@
-# 👾 Reverse Engineer | Independent Developer
+# 👾 Reverse Engineer | Security Lecturer | Independent Developer
 
-<p align="ce- 🥇 **Security Research** - Tencent Security Emergency Response Center Researcher (April 2022 - Rank #26)
-- 🔬 **Vulnerability Research** - Discovered critical authentication bypass in Tencent Email System
-- 📚 **Academic Excellence** - 🏛️ **Xiamen University** Mathematical Statistics Pilot Program Graduate with ML expertise">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Reverse+Engineer;Independent+Developer;Web+/+PC+/+App;Tooling+%7C+Analysis+%7C+Systems" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Reverse+Engineer;Kanxue+Security+Lecturer;Independent+Developer;Web+/+PC+/+Android;Tooling+%7C+Analysis+%7C+Systems" alt="Typing SVG" />
 </p>
 
 <picture>
@@ -35,14 +33,14 @@ No activity tracked
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-🎓 <strong>Education</strong> - Graduated from <strong>Mathematical Statistics</strong> Pilot Program, <strong>School of Economics</strong>, <strong>Xiamen University
-</strong>  with good data intuition and machine learning foundation<br>
-🔍 <strong>Reverse Engineer</strong> - Specialized in software reverse analysis and security research<br>
+🎓 <strong>Education</strong> - Graduated from <strong>Mathematical Statistics</strong> Pilot Program, <strong>School of Economics</strong>, <strong>Xiamen University</strong> with good data intuition and machine learning foundation<br>
+🎙️ <strong>Kanxue Lecturer</strong> - Security & Reverse Engineering Lecturer at <strong>Kanxue Academy (Pediy)</strong><br>
+🔍 <strong>Reverse Engineer</strong> - Specialized in Android/ART internals, software reverse analysis, and security research<br>
 💻 <strong>Independent Developer</strong> - Full-stack development across Web / PC / App platforms<br>
 ⚙️ <strong>Security Researcher</strong> - Security Researcher at Tencent Security Emergency Response Center<br>
 🏆 <strong>Achievement</strong> - Reported Tencent email random login vulnerability, ranked 26th in April 2022 single vulnerability leaderboard<br>
-🧩 <strong>Tech Stack</strong> - C++ / Python / JavaScript / Lua / Frida / IDA Pro / Ghidra<br>
-🎮 <strong>Game Dev</strong> - Independent game development and reverse engineering
+🧩 <strong>Tech Stack</strong> - C++ / Python / JavaScript / Lua / Frida / Zygisk / IDA Pro / Ghidra<br>
+🎮 <strong>Game Dev</strong> - Independent game development, rendering mods, and reverse engineering
 </p>
 
 ---
@@ -51,17 +49,20 @@ No activity tracked
 
 <div align="left">
 
-#### 🎮 Game Reverse Engineering & Development
-- **URW Game Localization Project** - Independent game Chinese localization based on Detours Hook and DLL injection technology, utilizing IDA Pro, Frida, and patching techniques for complete localization
-- **Door in the Woods Mod Loader** - Used open-source Godot reverse tools, upgraded game engine to v4.0, fixed reverse engineering errors, refactored project, and added mod loading functionality
-- **Else Heart.Break-style RPG Game** - Currently developing a role-playing game using C/C++, OpenGL, and LuaJIT technology stack *(In Development)*
-
-#### 🕷️ Web & Mobile Security Research
+#### 🕷️ Android, Web & Mobile Security Research
+- **[r0dump](https://github.com/tiwe0/r0dump)** - Android 16 ART-integrated DEX dumper & repair toolkit inspired by FART, featuring in-memory DEX reconstruction, R0dump Manager, and portable AOSP/LineageOS patches
+- **[Dejavu](https://github.com/tiwe0/Dejavu) & [wxshadow-hook-poc](https://github.com/tiwe0/wxshadow-hook-poc)** - Lightweight Zygisk-based Android hooking toolkit for agile AI-era workflows, alongside stealth native hooking research
 - **TikTok Web Reverse Analysis** - Utilized AST tree transformation, symbolic execution, and JSVMP trace analysis to successfully reverse x-gnarly algorithm and web environment detection mechanisms
 - **Temu App Reverse Analysis** - Analyzed mobile application packet sending processes, business logic, and package encryption algorithms using Frida framework
 
 #### 🤖 AI & Development Tools
-- **Large Language Model & GeoGebra Integration** - Implemented deep integration of LLM with mathematical drawing tools using Next.js, LangChain, syntax parsing, and AST validation technologies
+- **[GeoChat](https://github.com/tiwe0/GeoChat)** - Local-first AI math visualization desktop app integrating LLMs with GeoGebra via Tauri, React, Bun, syntax parsing, AST validation, and native tool calling
+
+#### 🎮 Game Reverse Engineering & Development
+- **[Stardew Valley HD-2D](https://github.com/tiwe0/sdv-hd2d-release)** - Octopath Traveler–style HD-2D rendering SMAPI mod for Stardew Valley with 3D lighting, shadows, bloom, depth of field, and 3D weather
+- **URW Game Localization Project** - Independent game Chinese localization based on Detours Hook and DLL injection technology, utilizing IDA Pro, Frida, and patching techniques for complete localization
+- **Door in the Woods Mod Loader** - Used open-source Godot reverse tools, upgraded game engine to v4.0, fixed reverse engineering errors, refactored project, and added mod loading functionality
+- **Else Heart.Break-style RPG Game** - Currently developing a role-playing game using C/C++, OpenGL, and LuaJIT technology stack *(In Development)*
 
 </div>
 
@@ -71,6 +72,7 @@ No activity tracked
 
 <div align="left">
 
+- 🎙️ **Kanxue Lecturer** - Security & Reverse Engineering Lecturer at Kanxue Academy (Pediy)
 - 🥇 **Security Research** - Tencent Security Emergency Response Center Researcher (April 2022 - Rank #26)
 - 🎯 **CTF Competitions** - Active participant in cybersecurity capture-the-flag events
 - 🔍 **Vulnerability Research** - Discovered critical authentication bypass in Tencent Email System
@@ -86,27 +88,21 @@ No activity tracked
 
 #### 🔐 Security & Reverse Engineering
 - **Binary Analysis**: IDA Pro, Ghidra for software analysis
-- **Dynamic Analysis**: Frida hooking, Detours injection, DLL injection, patching techniques
+- **Dynamic Analysis**: Frida hooking, Zygisk/ART instrumentation, Detours & DLL injection, patching techniques
 - **Web Security**: JavaScript AST manipulation, symbolic execution, JSVMP analysis
-- **Mobile Security**: Android app reverse engineering and encryption analysis
+- **Mobile Security**: Android system/ART customization, unpacking (`r0dump`), and encryption analysis
 
 #### 💻 Software Development
 - **Systems Programming**: C/C++, OpenGL graphics, LuaJIT integration
-- **Web Development**: Next.js, FastAPI, full-stack architecture
-- **Game Development**: Godot engine modification, mod loading systems
-- **AI/ML Integration**: LangChain, syntax parsing, AST validation
+- **Desktop & Web Development**: Tauri, React, Next.js, FastAPI, Bun, full-stack architecture
+- **Game Development**: Godot engine modification, SMAPI rendering pipelines, mod loading systems
+- **AI/ML Integration**: Agentic tool calling, LangChain, syntax parsing, AST validation
 
 #### 🛡️ Research & Analysis
-- **Algorithm Reconstruction**: Reverse engineering proprietary algorithms (x-gnarly)
-- **Environment Detection**: Web environment detection mechanism analysis
-- **Cryptographic Analysis**: Mobile app encryption protocol analysis
-- **Engine Optimization**: Game engine upgrades and refactoring
-
-#### 🛡️ Research & Analysis
-- **Algorithm Reconstruction**: Reverse engineering proprietary algorithms
-- **Environment Detection**: Anti-debugging and evasion technique analysis
-- **Cryptographic Analysis**: Encryption protocol reverse engineering
-- **Performance Optimization**: Code refactoring and system enhancement
+- **Algorithm Reconstruction**: Reverse engineering proprietary algorithms (`x-gnarly`)
+- **Environment Detection**: Web environment detection, anti-debugging, and evasion technique analysis
+- **Cryptographic Analysis**: Mobile app encryption protocol reverse engineering
+- **Engine & System Optimization**: Game engine upgrades, code refactoring, and system enhancement
 
 </div>
 
@@ -127,7 +123,7 @@ No activity tracked
 </p>
 
 <p align="center">
-  <strong>� Professional Focus:</strong><br>
+  <strong>🧭 Professional Focus:</strong><br>
   🏢 Security Research positions<br>
   🔧 Reverse Engineering roles<br>
   💻 Full-Stack Development opportunities<br>
