@@ -32,6 +32,7 @@ Reverse & systems engineer focused on **Android Runtime (`ART` / `DEX` / `JNI`)*
 
 - **Security Instruction** — Security & Reverse Engineering Lecturer at **Kanxue Academy (Pediy)**
 - **Industry Practice** — Reverse & Data Systems Engineer *(2025–Present)*: mobile RPC/`Xposed` collection pipelines, `Unicorn` parameter emulation, and Web `JSVMP` algorithm recovery (`x-gnarly`)
+- **Independent Study & R&D** — Systems coursework for **CAS** graduate CS preparation & independent reverse engineering *(2023–2025: `URW` binary diffing & hook PoC, Godot 3 → 4 engine migration, security write-ups)*
 - **Vulnerability Research** — Independent Security Contributor @ **TSRC** *(Apr 2022 Single-Vuln Leaderboard #26 — critical authentication bypass in core Tencent service)*
 - **Academic Background** — B.S. in **Mathematical Statistics** *(Pilot Program)*, School of Economics, **Xiamen University** *(2018–2023)*
 
