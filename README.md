@@ -1,7 +1,19 @@
-# 👾 Reverse Engineer | Security Lecturer | Independent Developer
+<div align="center">
+
+# Ivory
+
+**Android Runtime & Kernel · Reverse Engineering · Systems & AI-Native Tooling**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Reverse+Engineer;Kanxue+Security+Lecturer;Independent+Developer;Web+/+PC+/+Android;Tooling+%7C+Analysis+%7C+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=640&lines=Android+Runtime+%26+Kernel+Hooking;Reverse+Engineering+%26+Protocol+Analysis;Kanxue+Academy+Security+Lecturer;Systems+Engineering+%26+AI-Native+Tooling" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://ivory.cafe"><strong>ivory.cafe</strong></a> ·
+  <a href="https://ivory.cafe/projects"><strong>Projects</strong></a> ·
+  <a href="https://ivory.cafe/resume"><strong>Resume</strong></a> ·
+  <a href="https://r0dump.com"><strong>r0dump.com</strong></a> ·
+  <a href="mailto:contact@ivory.cafe"><strong>contact@ivory.cafe</strong></a>
 </p>
 
 <picture>
@@ -10,16 +22,70 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tiwe0/tiwe0/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-<h3 align="left">🔥   My Stats :</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiwe0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiwe0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-Last week:
+---
+
+### Overview
+
+Reverse & systems engineer focused on **Android Runtime (`ART` / `DEX` / `JNI`)**, **low-level hooking** (`PTE` page-table switching, `Zygisk`, `LSPlant`, `Xposed`, `Frida`), **protocol / `JSVMP` reconstruction**, and **AI-augmented engineering workflows** built around context architecture, deterministic boundaries, and closed-loop verification.
+
+- **Security Instruction** — Security & Reverse Engineering Lecturer at **Kanxue Academy (Pediy)**
+- **Industry Practice** — Reverse & Data Systems Engineer *(2025–Present)*: mobile RPC/`Xposed` collection pipelines, `Unicorn` parameter emulation, and Web `JSVMP` algorithm recovery (`x-gnarly`)
+- **Vulnerability Research** — Independent Security Contributor @ **TSRC** *(Apr 2022 Single-Vuln Leaderboard #26 — critical authentication bypass in core Tencent service)*
+- **Academic Background** — B.S. in **Mathematical Statistics** *(Pilot Program)*, School of Economics, **Xiamen University** *(2018–2023)*
+
+---
+
+### Selected Projects & Research
+
+#### Android Runtime, Kernel & Security
+
+- **[r0dump](https://github.com/tiwe0/r0dump)** · [r0dump.com](https://r0dump.com) · [Technical Note](https://ivory.cafe/posts/r0dump-fart-to-android-16)  
+  Active-invocation ART method recovery & DEX unpacking system ported to **Android 16 / LineageOS 23.2** — covering classloader chain capture, in-memory DEX reconstruction, automated diagnostics, and `R0dump Manager`.
+
+- **[Dejavu](https://github.com/tiwe0/Dejavu)**  
+  Android `arm64` runtime C compilation & hooking engine embedding **Lua + TinyCC** to compile freestanding C in memory, featuring `dejavuctl` REPL, `hookx` scripting API, optional `Zygisk` / `LSPlant` integration, and 16 KB page-size support across Android 8–15 (API 26–35).
+
+- **[wxshadow-hook-poc](https://github.com/tiwe0/wxshadow-hook-poc)** · [Technical Note](https://ivory.cafe/posts/android-kernel-wxshadow-hook-lab)  
+  Android kernel page-level stealth hook lab on Pixel 7 — decomposing `PTE` transactions, shadow/original page views, `IABT`/`DABT` exception routing, page-identity checks, and clean teardown into verifiable states.
+
+- **Protocol & Web Deobfuscation**  
+  Pure-Python algorithm reconstruction of TikTok Web `x-gnarly` via AST transformations & `JSVMP` trace instrumentation; `Unicorn`-based native parameter emulation; Cronet & Protobuf traffic-capture modules; distributed `Xposed` collection (~90k records / 48h on 3 devices).
+
+#### Systems, AI Tooling & Graphics
+
+- **[GeoChat](https://github.com/tiwe0/GeoChat)** · [Technical Note](https://ivory.cafe/posts/llm-meets-geogebra)  
+  Local-first AI math visualization app (`Tauri` · `React` · `Bun`) driving GeoGebra reliably through explicit syntax boundaries, AST validation, asynchronous command feedback, and native tool calling.
+
+- **LBuild / Lambda64**  
+  Secondary development of an `ARM64` operating system & cold-image build system in **Common Lisp** targeting `QEMU virt`, spanning supervisor boot, VirtIO graphics, input, storage, and networking.
+
+- **[Stardew Valley HD-2D](https://github.com/tiwe0/sdv-hd2d-release)** · **Door in the Woods (Godot 3 → 4)** · **[URW Localization PoC](https://ivory.cafe/posts/localization-as-a-systems-project)**  
+  Octopath-style 3D stage lighting, shadows, bloom, depth of field & 3D weather SMAPI rendering mod; Godot decompilation, bugfixing, mod loader & engine upgrade to v4; Linux-vs-Windows symbol diffing + `Detours` / DLL injection Chinese rendering PoC.
+
+- **Systems Reading & Open Knowledge**  
+  Line-by-line annotated **Linux 0.12** source reader with in-browser `x86` emulator & memory visualizer; Chinese translations of core *Emacs Lisp* documentation, *Frida JavaScript API*, and symmetric shadowcasting algorithms.
+
+---
+
+### Metrics & Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiwe0/tiwe0/cards/github_dark/3-stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiwe0/tiwe0/cards/github/3-stats.svg">
+    <img height="175" alt="GitHub Stats" src="https://raw.githubusercontent.com/tiwe0/tiwe0/cards/github/3-stats.svg">
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiwe0/tiwe0/cards/github_dark/1-repos-per-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiwe0/tiwe0/cards/github/1-repos-per-language.svg">
+    <img height="175" alt="Top Languages" src="https://raw.githubusercontent.com/tiwe0/tiwe0/cards/github/1-repos-per-language.svg">
+  </picture>
+</p>
+
+Last 7 days (WakaTime):
 <!--START_SECTION:waka-->
 
 ```txt
@@ -30,160 +96,51 @@ No activity tracked
 
 ---
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-<p align="left">
-🎓 <strong>Education</strong> - Graduated from <strong>Mathematical Statistics</strong> Pilot Program, <strong>School of Economics</strong>, <strong>Xiamen University</strong> with good data intuition and machine learning foundation<br>
-🎙️ <strong>Kanxue Lecturer</strong> - Security & Reverse Engineering Lecturer at <strong>Kanxue Academy (Pediy)</strong><br>
-🔍 <strong>Reverse Engineer</strong> - Specialized in Android/ART internals, software reverse analysis, and security research<br>
-💻 <strong>Independent Developer</strong> - Full-stack development across Web / PC / App platforms<br>
-⚙️ <strong>Security Researcher</strong> - Security Researcher at Tencent Security Emergency Response Center<br>
-🏆 <strong>Achievement</strong> - Reported Tencent email random login vulnerability, ranked 26th in April 2022 single vulnerability leaderboard<br>
-🧩 <strong>Tech Stack</strong> - C++ / Python / JavaScript / Lua / Frida / Zygisk / IDA Pro / Ghidra<br>
-🎮 <strong>Game Dev</strong> - Independent game development, rendering mods, and reverse engineering
-</p>
-
----
-
-<h3 align="left">🚀 Featured Projects</h3>
-
-<div align="left">
-
-#### 🕷️ Android, Web & Mobile Security Research
-- **[r0dump](https://github.com/tiwe0/r0dump)** - Android 16 ART-integrated DEX dumper & repair toolkit inspired by FART, featuring in-memory DEX reconstruction, R0dump Manager, and portable AOSP/LineageOS patches
-- **[Dejavu](https://github.com/tiwe0/Dejavu) & [wxshadow-hook-poc](https://github.com/tiwe0/wxshadow-hook-poc)** - Lightweight Zygisk-based Android hooking toolkit for agile AI-era workflows, alongside stealth native hooking research
-- **TikTok Web Reverse Analysis** - Utilized AST tree transformation, symbolic execution, and JSVMP trace analysis to successfully reverse x-gnarly algorithm and web environment detection mechanisms
-- **Temu App Reverse Analysis** - Analyzed mobile application packet sending processes, business logic, and package encryption algorithms using Frida framework
-
-#### 🤖 AI & Development Tools
-- **[GeoChat](https://github.com/tiwe0/GeoChat)** - Local-first AI math visualization desktop app integrating LLMs with GeoGebra via Tauri, React, Bun, syntax parsing, AST validation, and native tool calling
-
-#### 🎮 Game Reverse Engineering & Development
-- **[Stardew Valley HD-2D](https://github.com/tiwe0/sdv-hd2d-release)** - Octopath Traveler–style HD-2D rendering SMAPI mod for Stardew Valley with 3D lighting, shadows, bloom, depth of field, and 3D weather
-- **URW Game Localization Project** - Independent game Chinese localization based on Detours Hook and DLL injection technology, utilizing IDA Pro, Frida, and patching techniques for complete localization
-- **Door in the Woods Mod Loader** - Used open-source Godot reverse tools, upgraded game engine to v4.0, fixed reverse engineering errors, refactored project, and added mod loading functionality
-- **Else Heart.Break-style RPG Game** - Currently developing a role-playing game using C/C++, OpenGL, and LuaJIT technology stack *(In Development)*
-
-</div>
-
----
-
-<h3 align="left">🏆 Achievements & Recognition</h3>
-
-<div align="left">
-
-- 🎙️ **Kanxue Lecturer** - Security & Reverse Engineering Lecturer at Kanxue Academy (Pediy)
-- 🥇 **Security Research** - Tencent Security Emergency Response Center Researcher (April 2022 - Rank #26)
-- 🎯 **CTF Competitions** - Active participant in cybersecurity capture-the-flag events
-- 🔍 **Vulnerability Research** - Discovered critical authentication bypass in Tencent Email System
-- 📚 **Academic Excellence** - Mathematical Statistics Pilot Program Graduate with ML expertise
-
-</div>
-
----
-
-<h3 align="left">💡 Core Competencies</h3>
-
-<div align="left">
-
-#### 🔐 Security & Reverse Engineering
-- **Binary Analysis**: IDA Pro, Ghidra for software analysis
-- **Dynamic Analysis**: Frida hooking, Zygisk/ART instrumentation, Detours & DLL injection, patching techniques
-- **Web Security**: JavaScript AST manipulation, symbolic execution, JSVMP analysis
-- **Mobile Security**: Android system/ART customization, unpacking (`r0dump`), and encryption analysis
-
-#### 💻 Software Development
-- **Systems Programming**: C/C++, OpenGL graphics, LuaJIT integration
-- **Desktop & Web Development**: Tauri, React, Next.js, FastAPI, Bun, full-stack architecture
-- **Game Development**: Godot engine modification, SMAPI rendering pipelines, mod loading systems
-- **AI/ML Integration**: Agentic tool calling, LangChain, syntax parsing, AST validation
-
-#### 🛡️ Research & Analysis
-- **Algorithm Reconstruction**: Reverse engineering proprietary algorithms (`x-gnarly`)
-- **Environment Detection**: Web environment detection, anti-debugging, and evasion technique analysis
-- **Cryptographic Analysis**: Mobile app encryption protocol reverse engineering
-- **Engine & System Optimization**: Game engine upgrades, code refactoring, and system enhancement
-
-</div>
-
----
-
-<h3 align="left">🎯 My Interests</h3>
-
-<div align="center">
+### Core Stack
 
 <p align="center">
-  <strong>🔍 Technical Interests:</strong><br>
-  👾 Complex reverse engineering challenges<br>
-  🔑 Security research and vulnerability discovery<br>
-  🎮 Game development and engine optimization<br>
-  🤖 AI-powered development tools<br>
-  🔬 Algorithm reconstruction and analysis<br>
-  ⚡ Low-level programming and performance optimization
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C" title="C" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++" title="C++" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust" title="Rust" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="36" alt="Lua" title="Lua" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="36" alt="Android" title="Android" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" title="Linux" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="36" alt="Tauri" title="Tauri" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="Vue" title="Vue" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="FastAPI" title="FastAPI" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="36" alt="Godot" title="Godot" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="36" alt="Vim" title="Vim" />
 </p>
-
-<p align="center">
-  <strong>🧭 Professional Focus:</strong><br>
-  🏢 Security Research positions<br>
-  🔧 Reverse Engineering roles<br>
-  💻 Full-Stack Development opportunities<br>
-  📋 Consulting and freelance projects
-</p>
-
-<p align="center">
-  <strong>📧 Open to:</strong><br>
-  💼 Collaboration and new opportunities<br>
-  🌐 Technical discussions and knowledge sharing<br>
-  🤝 Industry networking and partnerships
-</p>
-
-<p align="center">
-  <strong>📬 Contact Information:</strong><br>
-  📧 Email: <strong>contact@ivory.cafe</strong><br>
-  💬 WeChat: <strong>I0v0ry</strong><br>
-  📝 Please specify your purpose when contacting
-</p>
-
-</div>
-
----
-
-<h3 align="left">🛠 Language and tools</h3>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-</div>
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tiwe0.tiwe0&"  />
+
+**Contact** — [contact@ivory.cafe](mailto:contact@ivory.cafe) · WeChat: `I0v0ry` *(please include context)* · Blog & Notes: [ivory.cafe](https://ivory.cafe)  
+*Open to remote engineering roles, security research, technical instruction, and focused consulting.*
+
+<br>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=tiwe0.tiwe0" alt=" visitors" />
+
 </div>

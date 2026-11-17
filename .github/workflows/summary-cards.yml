@@ -1,0 +1,41 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/summary-cards.yml"
+
+jobs:
+  generate:
+    name: Generate Summary Cards
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          TIME_ZONE: "Asia/Shanghai"
+          EXCLUDE_REPOS: "StardewValley"
+          AUTO_PUSH: false
+          ANIMATION: "load"
+
+      - name: Push summary cards to cards branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: cards
+          build_dir: profile-summary-card-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
